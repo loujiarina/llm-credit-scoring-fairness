@@ -1,4 +1,4 @@
-# Fairness and Refusal Behavior of LLMs in Credit Scoring
+# Behavior of LLMs in Credit Scoring
 
 Code for the Bachelor's thesis "LLM Behavior in Credit Scoring"
 
