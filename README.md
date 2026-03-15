@@ -1,4 +1,4 @@
-# Behavior of LLMs in Credit Scoring
+# LLM Behavior in Credit Scoring
 
 Code for the Bachelor's thesis "LLM Behavior in Credit Scoring"
 
@@ -9,3 +9,7 @@ This thesis investigates fairness and refusal behavior of Large Language Models 
 **Research Questions:**
 1. Do LLM-generated credit scores vary when only gender is changed?
 2. Do LLMs demonstrate pushback when asked to score profiles with protected attributes?
+
+## Reproducibility
+The repository includes the model responses used in the analysis and the code for all statistical tests and fairness metrics reported in the thesis. 
+For the repeated sampling experiment (5 runs per prompt), responses were collected in multiple batches due to API limits. A subset of these responses is provided in the repository.
